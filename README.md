@@ -19,15 +19,13 @@ The dataset has **211944** rows and **27** columns.
 
 # Let’s answer some questions
 
-Get top 10 cities with average cost for 2 people and also number of entries for
-each city
+### Get top 10 cities with average cost for 2 people and also number of entries for each city
 
 ### ![](images/4bde20ed1a319d765d344b3c00afb029.png)
 
 
 
-Get bottom 10 cities with average cost for 2 people and also number of entries
-for each city
+### Get bottom 10 cities with average cost for 2 people and also number of entries for each city
 
 ![](images/74023b9e07632cb6f9240e1e5c4b3466.png)
 
