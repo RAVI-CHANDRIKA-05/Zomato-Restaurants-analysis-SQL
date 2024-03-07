@@ -5,8 +5,7 @@ EDA on Zomato Dataset in SSMS
 SQL stands for Structured Query Language. It is the standard language to
 interact with databases and a data analyst uses to manipulate and gain insights
 from the data. For this project, I will try to process, and analyze the Zomato’s
-Dataset from [Kaggle]
-(<https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india?resource=download>)
+Dataset from [Kaggle](<https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india?resource=download>)
 
 # Dataset
 
@@ -18,6 +17,11 @@ The dataset has **211944** rows and **27** columns.
 ![](images/1dbcc905e416ed3c5aa1b538fc9f5b93.png)![](images/1b7127e55577e2730b992539bea08454.png)
 
 # Let’s answer some questions
+<<<<<<< HEAD
+=======
+
+### Get top 10 cities with average cost for 2 people and also number of entries for each city
+>>>>>>> a4064f062db915848be4763826b7a2939838958d
 
 ### 1. Get top 10 cities with average cost for 2 people and also number of entries for each city
 ~~~~sql
@@ -32,6 +36,7 @@ ORDER BY avg_cost_for_2 DESC
 ~~~~
 ### ![](images/4bde20ed1a319d765d344b3c00afb029.png)
 
+<<<<<<< HEAD
 ### 2. Get bottom 10 cities with average cost for 2 people and also number of entries for each city
 ~~~~sql
 SELECT TOP 10 
@@ -43,6 +48,12 @@ FROM ZOMATO_DATABASE_EDA..ZOMATO_DATASET_INDIA
 GROUP BY city
 ORDER BY avg_cost_for_2 ASC
 ~~~~
+=======
+
+
+### Get bottom 10 cities with average cost for 2 people and also number of entries for each city
+
+>>>>>>> a4064f062db915848be4763826b7a2939838958d
 ![](images/74023b9e07632cb6f9240e1e5c4b3466.png)
 
 ### 3. Cities ranked as per the most number of locations Zomato is in operation
