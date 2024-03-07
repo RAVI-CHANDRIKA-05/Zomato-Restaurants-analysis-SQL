@@ -1,10 +1,10 @@
+
+# Zomato-Restaurants-analysis-SQL
 EDA on Zomato Dataset in SSMS
 
-# Introduction
+### ![](images/zomato.jpg)
 
-SQL stands for Structured Query Language. It is the standard language to
-interact with databases and a data analyst uses to manipulate and gain insights
-from the data. For this project, I will try to process, and analyze the Zomato’s
+For this project, I will try to process, and analyze the Zomato’s
 Dataset from [Kaggle](<https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india?resource=download>)
 
 # Dataset
