@@ -1,0 +1,10 @@
+#Change title as required
+title: AtliQ_Mart_Festival_Sales_Promotional_Analysis
+
+#Change description: as required
+description: Analyzing the Promotion Offers and Performance During Diwali and Sankranti Festivals
+
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+
